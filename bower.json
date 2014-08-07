@@ -1,0 +1,22 @@
+{
+  "name": "question3",
+  "version": "0.0.0",
+  "authors": [
+    "Nikolay Norkin <n.e.norkin@gmail.com>"
+  ],
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "jasmine": "~2.0.1",
+    "requirejs": "~2.1.14"
+  }
+}
